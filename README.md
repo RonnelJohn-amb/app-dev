@@ -8,3 +8,4 @@ My first repository
 **bold text**
 
 	That is so funny! :joy:
+~~The world is flat.~~
